@@ -13,7 +13,7 @@ From your command line, first clone this repo:
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/Saptarshi423/Comfy-sloth
+$ git clone https://github.com/Saptarshi423/Comfy-sloth.git
 
 # Go into the repository
 $ cd Comfy-sloth
