@@ -1,24 +1,38 @@
-# Comfy App
+# Comfy Sloth
 
-<!-- ## Notes
+An ecommerce application built using HTML,CSS,JavaScript,
+ReactJS,ContextAPI,React Router,Stripe(for payments) & Auth0 for 
+authentication purpose.
 
-#### Older React Version
+## [Demo Link](https://comfy-app.netlify.app/)
+
+## How To Use 🔧
+
+From your command line, first clone this repo:
+
+```bash
+
+# Clone this repository
+$ git clone https://github.com/Saptarshi423/Comfy-sloth
+
+# Go into the repository
+$ cd Comfy-sloth
 
 ```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
+
+Then you can install the dependencies
+
+Using NPM:
+
+```bash
+
+# Install dependencies
+$ npm install
+
+# To Run dvelopment server
+$ npm run
+
+# To create a production build
+$ npm run build
+
 ```
-
-#### Current React Version
-
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
-
-#### Alternative fix
-
-.env file in the root
-FAST_REFRESH=FALSE -->
