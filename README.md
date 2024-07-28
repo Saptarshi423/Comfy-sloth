@@ -32,7 +32,8 @@ $ npm install
 # To Run dvelopment server
 $ npm run
 
-# To create a production build
-$ npm run build
+
 
 ```
+## UI
+![image](https://github.com/user-attachments/assets/08a87439-bc7f-40d1-b547-6b45f0d4682d)
